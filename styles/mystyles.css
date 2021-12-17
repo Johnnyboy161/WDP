@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(248, 233, 214);
+}
+
+header.masthead .site-heading .subheading {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header.masthead .site-heading {
+    color: rgb(199, 195, 195);
+}
+
+.post-preview > .post-meta {
+    font-size: 1.1rem;
+}
+
+.box4 {
+    padding-left: 300px;
+    margin: 100px;
+}
+
+.imagepositioning {
+    padding-left: 300px;
+    margin: 100px;
+}
